@@ -1,8 +1,4 @@
 # SQL-bolt-
-<img width="856" alt="image" src="https://user-images.githubusercontent.com/107174047/186206842-3a9bb2ff-6f7d-45f6-a28a-2827fd28fdbb.png">
-<img width="851" alt="image" src="https://user-images.githubusercontent.com/107174047/186207059-61678cf3-55d1-4f54-bea7-a2d53a499daa.png">
-<img width="848" alt="image" src="https://user-images.githubusercontent.com/107174047/186208696-227fc09f-8877-42e3-a5ad-bcbe46ad93e2.png">
-<img width="849" alt="image" src="https://user-images.githubusercontent.com/107174047/186208816-8178a488-9543-4e9d-a933-201c2afb18a2.png">
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/107174047/186208965-586c3834-c5a2-4c5f-9dad-f57a6142f15b.png">
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/107174047/186209460-419ac129-8d2f-4c16-b199-f04e07ddb0d1.png">
 <img width="851" alt="image" src="https://user-images.githubusercontent.com/107174047/186209930-347d3ee9-a32c-439b-a637-df3023a889dd.png">
